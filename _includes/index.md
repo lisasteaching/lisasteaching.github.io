@@ -1,10 +1,10 @@
 ### PA State Teaching Certificate, 7-12 Mathematics
-Robert Morris University, June 2012
+Robert Morris University, June 2012<br/>
 <a href="https://lisasteaching.github.io/portfolio_teaching/pdf-files/PA-certification.pdf" target="_blank">Download</a>
    
 ### Certificate of University Teaching
-Duquesne University, March 2015
-<a href="https://lisasteaching.github.io/portfolio_teaching/pdf-files/DuqUnivTeachingCert.pdf" target="_blank">Download</a>
+Duquesne University, March 2015<br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/pdf-files/DuqUnivTeachingCert.pdf" target="_blank">Download</a><br/>
 To earn the Certificate of University Teaching from Duquesne University, I participated in teaching workshops, mentored new TAs, and designed and delivered lessons under formal observation. I was the first student in the Computational Mathematics program to earn this certificate.
 ### PRAXIS Scores
 My official PRAXIS scores are on file with the Pennsylvania Department of Education. I will provide copies upon request.
