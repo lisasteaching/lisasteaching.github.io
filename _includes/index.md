@@ -9,9 +9,9 @@ To earn the Certificate of University Teaching from Duquesne University, I parti
 ### PRAXIS Scores
 My official PRAXIS scores are on file with the Pennsylvania Department of Education. I will provide copies upon request.
 
-Mathematics Content Knowledge (0061): 155
-C-PPST Reading (5710): 184
-C-PPST Writing (5720): 179
+Mathematics Content Knowledge (0061): 155<br/>
+C-PPST Reading (5710): 184<br/>
+C-PPST Writing (5720): 179<br/>
 C-PPST Mathematics (5730): 188
 
 ### References
