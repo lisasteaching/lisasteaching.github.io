@@ -34,8 +34,26 @@ navigation:
 - text: Home
   url: ./
   internal: true
-- text: Lessons
-  url: lessons/
+- text: Statistics
+  url: statistics/
+  internal: true
+- text: Algebra
+  url: algebra/
+  internal: true
+- text: Pre-Algebra
+  url: pre_algebra/
+  internal: true
+- text: Geometry
+  url: geometry/
+  internal: true
+- text: Planning
+  url: planning/
+  internal: true
+- text: Documentation
+  url: documentation/
+  internal: true
+- text: Philosophy
+  url: philosophy/
   internal: true
 #- text: DOCter Repo
 #  url: https://github.com/cfpb/DOCter
@@ -43,10 +61,10 @@ navigation:
 
 # Repo list
 # List repos that you would like to appear on the homepage here
-repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+#repos:
+#- name: DOCter
+#  description: Jekyll template for docs
+#  url: https://github.com/cfpb/DOCter
 
 # Style Variables
 brand_color: "#2cb34a"
