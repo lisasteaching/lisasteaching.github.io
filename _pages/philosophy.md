@@ -4,7 +4,12 @@ title:  "Philosophy"
 ---
 
 # Philosophy of Math
-Coming soon!
+
+Mathematics is a system of knowledge that describes and explains the physical world in terms of a man-made set of symbols. Although the symbols are man-made, the simplicity and elegance of how the symbols come together are not man-made.
+
+Mathematics is a tool of practical application—the art and science of solving real-world problems. The problems and their solutions come in many forms and include, but are not limited to, proving numerical and geometric relationships, finding unknown values, developing processes, and analyzing and representing data.
+
+To engage in mathematics means to apply inductive and deductive reasoning to a set of assumptions, definitions, and patterns for the purpose of solving a problem. This mathematical reasoning leads to logical processes, implications, and conclusions that can then be applied to another set of assumptions, definitions, and patterns to solve a different problem.
 
 # Philosophy of Education
 
