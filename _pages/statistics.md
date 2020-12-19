@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "Statistics"
+---
+
 ### Create a Sampling Distribution
 
 Each student will obtain and calculate the mean for eight different simple random samples of size 4 from a population of exam grades. The class will construct a histogram of sample means to illustrate a sampling distribution. The teacher will demonstrate a sampling distribution from the same population using sample size n=2. Students will consider the sampling distributions of sample means and the population distribution in light of the purpose of statistics, i.e., to make inferences about the population from sample data.
