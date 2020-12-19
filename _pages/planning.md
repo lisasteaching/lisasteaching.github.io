@@ -22,7 +22,7 @@ This nine-week curriculum is designed to “lay a foundation” for higher level
 
 This high school geometry unit includes content and skills that are directly related to the PSSA exam and to real life. This unit also prepares students for advanced math such as Algebra II and Pre-calculus. This plan includes two sample lessons.
 
-### Unit Plan Files
+### Unit Plan and Sample Lessons
 <a href="https://lisasteaching/portfolio_teaching/planning/Coordinate-Geometry-Unit-Plan.pdf" target="_blank">Coordinate Geometry Unit Plan</a><br />
 <a href="https://lisasteaching/portfolio_teaching/planning/Lesson-Coordinate-Introduction-Combined.pdf" target="_blank">Introduction to Coordinate Geometry Lesson Plan and Worksheets</a><br />
 <a href="https://lisasteaching/portfolio_teaching/planning/Lesson-Coordinate-Systems-Combined.pdf" target="_blank">Coordinate Systems Lesson Plan and Worksheets</a>
