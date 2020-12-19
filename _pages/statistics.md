@@ -13,10 +13,10 @@ It is not practical to use this lesson to illustrate the Central Limit Theorem b
 
 ### Lesson Files
 
-<a href="https://lisasteaching.github.io/portfolio_teaching/pdf-files/SamplingDistribution_Activity.pdf" target="_blank">Activity Worksheet</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/pdf-files/SamplingDistribution_LessonPlan.pdf" target="_blank">LessonPlan</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/ppsx-files/SamplingDistributions.pptx" target="_blank">Sampling Distributions Power Point</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/pdf-files/SamplingDistribution_histogram-243-samples.pdf" target="_blank">Sample Histogram</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistribution_Activity.pdf" target="_blank">Activity Worksheet</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistribution_LessonPlan.pdf" target="_blank">LessonPlan</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistributions.pptx" target="_blank">Sampling Distributions Power Point</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistribution_histogram-243-samples.pdf" target="_blank">Sample Histogram</a>
 
 # M&Ms Introduce Students to Statistics
 
@@ -35,6 +35,6 @@ When I first did this activity, I used only plain M&amp;Ms. If you have enough s
 * Probability - I used this dataset to illustrate relative frequency, probability, and independence. What is the proportion of red M&amp;Ms? That <em>depends</em> on what type of M&amp;M you are talking about.
 
 ### Lesson Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/doc-files/Pre-Reading-Anticipatory-Set.docx">Data Terminology with M&amp;Ms</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/doc-files/Terminology-Guided-Notes.docx">Terminology Guided Notes</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/doc-files/Terminology-Guided-Notes-Key.docx">Terminology Guided Notes Key</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Pre-Reading-Anticipatory-Set.docx">Data Terminology with M&amp;Ms</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Terminology-Guided-Notes.docx">Terminology Guided Notes</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Terminology-Guided-Notes-Key.docx">Terminology Guided Notes Key</a>
