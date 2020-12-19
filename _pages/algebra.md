@@ -12,7 +12,7 @@ Through writing students describe how the sides of their constructions relate to
 You can see that students were very creative with this project. Some even created objects that were not buildings or outdoor spaces, as in the lollipop and picture frame projects shown below. More projects with close up pictures of the text and drawings can be viewed by downloading the slideshow provided below the images.
 
 ### Project Files
-<a href=“https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Rubric.pdf" target="_blank">Instructions and Rubric</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Rubric.pdf" target="_blank">Instructions and Rubric</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Drawing-Ex.pdf" target="_blank">Drawing Example</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials.ppsx" target="_blank">Slideshow of Student Work</a>
                                                                                                                       
