@@ -35,6 +35,7 @@ When I first did this activity, I used only plain M&amp;Ms. If you have enough s
 * Probability - I used this dataset to illustrate relative frequency, probability, and independence. What is the proportion of red M&amp;Ms? That <em>depends</em> on what type of M&amp;M you are talking about.
 
 ### Lesson Files
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Stats-Intro-Lesson.pdf">Lesson Plan</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Pre-Reading-Anticipatory-Set.docx">Data Terminology with M&amp;Ms</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Terminology-Guided-Notes.docx">Terminology Guided Notes</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Terminology-Guided-Notes-Key.docx">Terminology Guided Notes Key</a>
