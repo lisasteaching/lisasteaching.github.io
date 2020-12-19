@@ -15,17 +15,34 @@ You can see that students were very creative with this project. Some even create
 <a href=“https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Rubric.pdf" target="Blank">Instructions and Rubric</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Drawing-Ex.pdf" target="Blank">Drawing Example</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials.ppsx" target="Blank">Slideshow of Student Work</a>
+                                                                                                                      
+# Linear Systems Jeopardy
 
-# Do Everything Twice
+I created this game using the Jeopardy template for Power Point® to help students review solving systems of linear equations. Divide the class into teams and play for a prize (extra credit points or homework pass).
 
-The anticipatory set in this lesson engages students in a story that portrays a real-life scenario with a fictional twist. The story leads logically into the lesson where students discover the addition and subtraction properties of equality and develop a procedure for solving equations with them.
- 
-### Lesson Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-Lesson.pdf" target="_blank">Lesson Plan</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-GraphicOrg.pdf" target="_blank">Graphic Organizer</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-GuidedNotes.pdf" target="_blank">Guided Notes</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-Problem.pdf" target="_blank">Problem of the Day</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-Problem-Cutouts.pdf" target="_blank">Problem Cutouts</a>
+### Presentation File
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Linear-Systems-Jeopardy.ppsx" target="Blank">Jeopardy PPSX</a>
+
+# Inequality Pattern Activity
+
+After a lesson on graphing linear inequalities, one student asked me if there was a pattern to the shading. He understood that the shading for a “greater than” inequality was above the line and that the shading for a “less than” inequality was below the line. What he did not understand was why some graphs had shading that extended to the left while others had shading that extended to the right. He asked if that had anything to do with the value of the slope. If the slope was negative, did that mean the shading went left?
+
+<img class="size-medium wp-image-4302 alignright" src="https://lisasteaching.github.io/portfolio_teaching/images/Graphing-Linear-Inequalz-Pattern-300x286.png" alt="" width="300" height="286" />
+
+I used this opportunity to show students the pattern behind the four basic types of inequalities. In this activity, students graphed the four basic inequalities with boundary line y = x on one sheet of paper. With the paper folded in half, they graphed the two greater-than inequalities on one side and discussed that the sign of the slope determined the “rightness” or “leftness” of the shading. Then students flipped the paper over and graphed the two less-than inequalities. Students then realized that it was the direction of the inequality and the sign of the slope that determined the “rightness” or “leftness” of the shading.
+
+### Activity Files
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Pattern.pdf" target="Blank">Activity Instructions</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Ex.pdf" target="Blank">Example of Completed Activity (graphite pencil)</a>
+
+                                                                                                                      
+# Special Systems Graphic Organizer
+
+During my student teaching, one student who was an English language learner struggled with the different types of lines and their respective equations. To help him process and remember the similarities and differences of parallel, perpendicular, and coincident lines, I created a graphic organizer (after an example in the textbook) where students could model these three concepts verbally, visually, and with formulas. Not everyone took advantage of this, however, the ELL student did fill it out and proceeded to get every related question on the test correct.
+
+### Graphic Organizer Files
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Special-Systems-Graphic-Organizer.pdf" target="Blank">Special Systems Graphic Organizer</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/ELL-Graphic-Org-FH.pdf" target="Blank">ELL Student Response</a>
 
 # Pythagorean Theorm Life Application Webquest
 
@@ -61,3 +78,14 @@ Some students were really involved in this activity and obviously had fun findin
 <a href=“https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Webquest.pdf”>Instructions and Worksheet</a>
 ### Student Work
 <a href=“https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Student-Samples.pdf”>Student Samples</a>
+
+# Do Everything Twice
+
+The anticipatory set in this lesson engages students in a story that portrays a real-life scenario with a fictional twist. The story leads logically into the lesson where students discover the addition and subtraction properties of equality and develop a procedure for solving equations with them.
+ 
+### Lesson Files
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-Lesson.pdf" target="_blank">Lesson Plan</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-GraphicOrg.pdf" target="_blank">Graphic Organizer</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-GuidedNotes.pdf" target="_blank">Guided Notes</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-Problem.pdf" target="_blank">Problem of the Day</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-Problem-Cutouts.pdf" target="_blank">Problem Cutouts</a>
