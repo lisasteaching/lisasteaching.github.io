@@ -23,6 +23,24 @@ I created this game using the Jeopardy template for Power Point® to help studen
 ### Presentation File
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Linear-Systems-Jeopardy.ppsx" target="_blank">Jeopardy PPSX</a>
 
+# Graphing Linear Inequalities
+
+In this lesson, students recall graphing inequalities on a number line and relate that process to graphing linear inequalities. An introductory activity engages students in graphing four different equations each in a quarter portion of a folded sheet of paper to compare and contrast linear inequalities where the direction of the inequality and/or the sign of the slope differ. Students practice graphing solutions to these linear inequalities using a test point to determine which half-plane to shade. Students see the logical connection between an open circle for a boundary point and a dashed line for a boundary line for strictly greater than and less than inequalities.
+
+This lesson consists of several differentiated tasks to engage students from various ability levels:
+
+During the introductory activity, students create a foldable that illustrates the pattern of shading of four linear inequalities that differ in direction and/or in the sign of the slope. Students can use this visual guide to help them graph linear inequalities as they work with partners during the next part and as they complete the homework.
+
+During the collaborative group work, students work with a partner to solve a linear inequality and together present their solution to the class. Partners will be strategically selected to ensure that 1) two different ability levels are represented within each partnership and 2) the ability levels of each student in any partnership are not so extremely different to inhibit the learning of either or both students.
+
+Homework consists of a choice board with problems from three levels of difficulty: basic, moderate, and hard. Point values are 3, 5 and 7, respectively. Students select problems to accumulate 25 points. There are 6 basic problems, 4 moderate, and 4 hard problems from which to choose. The distribution of problems requires students to choose at least two moderate or one hard problem to reach or exceed 25 points.
+
+### Lesson Files
+
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Lesson.pdf" target="_blank">Graphing Linear Inequalities Lesson Plan</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Lesson-Activity.pdf" target="_blank">Graphing Linear Inequalities Activity Instructions</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-HW-Choice-Brd.pdf" target="_blank">Graphing Linear Inequalities Homework Choice Board</a>
+
 # Inequality Pattern Activity
 
 After a lesson on graphing linear inequalities, one student asked me if there was a pattern to the shading. He understood that the shading for a “greater than” inequality was above the line and that the shading for a “less than” inequality was below the line. What he did not understand was why some graphs had shading that extended to the left while others had shading that extended to the right. He asked if that had anything to do with the value of the slope. If the slope was negative, did that mean the shading went left?
