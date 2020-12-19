@@ -52,7 +52,6 @@ I used this opportunity to show students the pattern behind the four basic types
 ### Activity Files
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Pattern.pdf" target="_blank">Activity Instructions</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Ex.pdf" target="_blank">Example of Completed Activity (graphite pencil)</a>
-
                                                                                                                       
 # Special Systems Graphic Organizer
 
@@ -61,6 +60,17 @@ During my student teaching, one student who was an English language learner stru
 ### Graphic Organizer Files
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Special-Systems-Graphic-Organizer.pdf" target="_blank">Special Systems Graphic Organizer</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/ELL-Graphic-Org-FH.pdf" target="_blank">ELL Student Response</a>
+
+# Posttest Write About
+
+The Posttest Write About for chapter 6 involved a word problem that engaged students in a real-life application of linear systems. Students were to solve the problem and explain how they solved it. Students were to include specific descriptions of their steps along with the reasons for using the strategy they chose.
+
+The Posttest Write Abouts are part of the curriculum at Fort Couch Middle School. The teachers grade the write abouts using the PSSA Mathematics General Rubric, which is a holistic rubric that measures the level of understanding exhibited by the student in the answer (advanced, excellent, satisfactory, almost satisfactory, and minimal understanding). My cooperating teacher suggested I create and use my own rubric without first seeing the PSSA rubric. I created an analytic rubric so I could give specific feedback on the solution and the explanation as well as award partial credit for answering only one of the questions asked in the problem. I awarded up to 3 points for problem accuracy and up to 2 points for the process description.
+
+### Activity Files
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Posttest-Write-About.pdf" target="_blank">Instructions</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Posttest-Write-About-Rubric.pdf" target="_blank">Rubric</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Posttest-Write-About-StudentWK.pdf" target="_blank">Student Work</a>
 
 # Pythagorean Theorm Life Application Webquest
 
