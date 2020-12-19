@@ -3,21 +3,6 @@ layout: page
 title:  "Statistics"
 ---
 
-# Create a Sampling Distribution
-
-Each student will obtain and calculate the mean for eight different simple random samples of size 4 from a population of exam grades. The class will construct a histogram of sample means to illustrate a sampling distribution. The teacher will demonstrate a sampling distribution from the same population using sample size n=2. Students will consider the sampling distributions of sample means and the population distribution in light of the purpose of statistics, i.e., to make inferences about the population from sample data.
-
-### Note about the Central Limit Theorem
-
-It is not practical to use this lesson to illustrate the Central Limit Theorem because students would have to calculate the means of multiple samples with n=25 or more. The more difficult concept here is the sampling distribution itself. This activity lays a strong foundation for students to understand the Central Limit Theorem by illustrating what a sampling distribution is. I then use computer simulations to illustrate the Central Limit Theorem in the next lesson.
-
-### Lesson Files
-
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistribution_Activity.pdf" target="_blank">Activity Worksheet</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistribution_LessonPlan.pdf" target="_blank">LessonPlan</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistributions.pptx" target="_blank">Sampling Distributions Power Point</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistribution_histogram-243-samples.pdf" target="_blank">Sample Histogram</a>
-
 # M&Ms Introduce Students to Statistics
 
 This two-day introductory lesson engages students in the data analysis process and develops their statistical thinking with a data gathering activity, a pre-reading anticipatory set of questions, a reading assignment, and a post-reading lecture with guided notes. Students in my college business statistics course gathered data by weighing packages of M&amp;Ms and counted the number of each color. Students entered the data into an online survey and analyzed the results in a spreadsheet. The applications of this student-collected data included discussions and activities about cleaning data, calculating numerical summaries, creating graphs, calculating probabilities, and determining independence.
@@ -39,3 +24,49 @@ When I first did this activity, I used only plain M&amp;Ms. If you have enough s
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Pre-Reading-Anticipatory-Set.docx">Data Terminology with M&amp;Ms</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Terminology-Guided-Notes.docx">Terminology Guided Notes</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Terminology-Guided-Notes-Key.docx">Terminology Guided Notes Key</a>
+
+# Create a Sampling Distribution
+
+Each student will obtain and calculate the mean for eight different simple random samples of size 4 from a population of exam grades. The class will construct a histogram of sample means to illustrate a sampling distribution. The teacher will demonstrate a sampling distribution from the same population using sample size n=2. Students will consider the sampling distributions of sample means and the population distribution in light of the purpose of statistics, i.e., to make inferences about the population from sample data.
+
+### Note about the Central Limit Theorem
+
+It is not practical to use this lesson to illustrate the Central Limit Theorem because students would have to calculate the means of multiple samples with n=25 or more. The more difficult concept here is the sampling distribution itself. This activity lays a strong foundation for students to understand the Central Limit Theorem by illustrating what a sampling distribution is. I then use computer simulations to illustrate the Central Limit Theorem in the next lesson.
+
+### Lesson Files
+
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistribution_Activity.pdf" target="_blank">Activity Worksheet</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistribution_LessonPlan.pdf" target="_blank">LessonPlan</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistributions.pptx" target="_blank">Sampling Distributions Power Point</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SamplingDistribution_histogram-243-samples.pdf" target="_blank">Sample Histogram</a>
+
+# Research Project
+
+For the project outlined below, students, individually, conducted research consisting of a survey or experiment. To complete the project, students gathered the appropriate data for exploratory data analysis and performed the analysis summarizing the data using the descriptive tools from the course. A formal report of the project was to be typed and submitted as if it were a scientific paper ready for presentation. The project was graded as follows:
+
+* Description (10%) A typed, double-spaced, one-page description of the question the student wishes to address and his or her plan for gathering data.
+* Draft (30%) A typed, double-spaced draft of the project that includes the Introduction, Methodology, and Data Exploration sections outlined below in the Project Outline.
+* Final (60%) A typed, double-spaced final report incorporating any suggested changes to the draft and the remaining sections—Results, Conclusion, and Future Study—as outlined below in the Project Outline.
+
+### Project Outline
+
+* Introduction - Describe the project and scope of the problem addressed.
+* Methodology - Provide any details of the approach to the problem solution. State methods of data gathering, difficulties, assumptions and/or constraints, and the statistical analyses/tests used.
+* Data Exploration - Provide both graphic and numeric summaries of the data and document the data exploration with explanations of any and all calculations used. Provide tabular results in an appendix to the report.
+* Results - Provide calculations and results of statistical tests/inferences.
+* Conclusion - Provide a clear rationale of the conclusion(s) reached in this project.
+* Future Study - In a project of this nature [with time being a factor to properly complete a full investigation of a question/project] provide a description of what should be included in further study of the problem.
+
+### Project Files
+
+Project Instructions
+Stats Project Rubric
+
+### Examples of Student Work
+
+SAT Scores Income Spring 15
+Nurse Anesthetists Salary Spring 15
+Lucky 7s Spring 15
+NFL Running Back Spring 15
+Hockey Period Scores Spring 15
+Penguin Wins Spring 15
