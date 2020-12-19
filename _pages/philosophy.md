@@ -1,3 +1,11 @@
+---
+layout: page
+title:  "Philosophy"
+---
+
+### Philosophy of Math
+Coming soon!
+
 ### Philosophy of Education
 
 One goal of education is for all students to develop the knowledge and skills they need to become good problem solvers, informed and reasonable decision-makers, independent learners, and thoughtful, responsible citizens who are collaborators and who respect themselves and others. Another goal is for each student to explore and discover his or her own set of unique interests and abilities and to develop the specific knowledge and skills needed to pursue fulfilling and sustaining work. It is my desire to foster in all students an understanding of and appreciation for mathematics as a tool for problem solving. It is also my desire to mentor students who show a special interest in mathematics, programming, and/or science and to encourage them to pursue a STEM related field of study in college.
@@ -10,6 +18,3 @@ Students must know what teachers expect from them before they can meet those exp
 Good communication with parents is an essential part of preventing problems and ensuring a positive experience for all students. If parents know how their children are supposed to act in the classroom, they can reinforce classroom expectations at home. Communicating progress is also important. Teachers should contact parents regularly to communicate both good and bad behavior as well as any improvement students have demonstrated.
 Interesting and engaging lessons are necessary for keeping students involved and on task. Down time, when students have nothing to do, is an invitation for bad behavior. If students are engaged in the lesson and have structured transitions between tasks, the learning experiences will be positive. The teacher can then enhance the learning by posing and answering interesting questions rather than spending time addressing problem behaviors.
 Ultimately, students should moderate their own behavior. Fair and consistent reinforcement, communication, warnings, and consequences will be meaningful to students. Students will then be more likely to exhibit good behavior consistently on their own.
-
-### Philosophy of Math
-Coming soon!
