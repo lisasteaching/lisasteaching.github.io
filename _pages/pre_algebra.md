@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "Pre-Algebra"
+---
+
 ### Fundamental Theorem of Arithmetic
 
 This lesson is part of the <a href="planning.php">"Lay a Foundation" curriculum proposal</a>.
