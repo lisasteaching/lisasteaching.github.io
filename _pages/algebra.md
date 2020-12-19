@@ -45,7 +45,7 @@ Homework consists of a choice board with problems from three levels of difficult
 
 After a lesson on graphing linear inequalities, one student asked me if there was a pattern to the shading. He understood that the shading for a “greater than” inequality was above the line and that the shading for a “less than” inequality was below the line. What he did not understand was why some graphs had shading that extended to the left while others had shading that extended to the right. He asked if that had anything to do with the value of the slope. If the slope was negative, did that mean the shading went left?
 
-<img class="size-medium wp-image-4302 alignright" src="https://lisasteaching.github.io/portfolio_teaching/images/Graphing-Linear-Inequalz-Pattern-300x286.png" alt="" width="300" height="286" />
+<img src="https://lisasteaching.github.io/portfolio_teaching/images/Graphing-Linear-Inequalz-Pattern.png" alt="Linear Inequality Pattern Sample" width="300" height="286" />
 
 I used this opportunity to show students the pattern behind the four basic types of inequalities. In this activity, students graphed the four basic inequalities with boundary line y = x on one sheet of paper. With the paper folded in half, they graphed the two greater-than inequalities on one side and discussed that the sign of the slope determined the “rightness” or “leftness” of the shading. Then students flipped the paper over and graphed the two less-than inequalities. Students then realized that it was the direction of the inequality and the sign of the slope that determined the “rightness” or “leftness” of the shading.
 
