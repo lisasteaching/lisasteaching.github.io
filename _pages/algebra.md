@@ -12,16 +12,16 @@ Through writing students describe how the sides of their constructions relate to
 You can see that students were very creative with this project. Some even created objects that were not buildings or outdoor spaces, as in the lollipop and picture frame projects shown below. More projects with close up pictures of the text and drawings can be viewed by downloading the slideshow provided below the images.
 
 ### Project Files
-<a href=“https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Rubric.pdf" target="Blank">Instructions and Rubric</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Drawing-Ex.pdf" target="Blank">Drawing Example</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials.ppsx" target="Blank">Slideshow of Student Work</a>
+<a href=“https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Rubric.pdf" target="_blank">Instructions and Rubric</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Drawing-Ex.pdf" target="_blank">Drawing Example</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials.ppsx" target="_blank">Slideshow of Student Work</a>
                                                                                                                       
 # Linear Systems Jeopardy
 
 I created this game using the Jeopardy template for Power Point® to help students review solving systems of linear equations. Divide the class into teams and play for a prize (extra credit points or homework pass).
 
 ### Presentation File
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Linear-Systems-Jeopardy.ppsx" target="Blank">Jeopardy PPSX</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Linear-Systems-Jeopardy.ppsx" target="_blank">Jeopardy PPSX</a>
 
 # Inequality Pattern Activity
 
@@ -32,8 +32,8 @@ After a lesson on graphing linear inequalities, one student asked me if there wa
 I used this opportunity to show students the pattern behind the four basic types of inequalities. In this activity, students graphed the four basic inequalities with boundary line y = x on one sheet of paper. With the paper folded in half, they graphed the two greater-than inequalities on one side and discussed that the sign of the slope determined the “rightness” or “leftness” of the shading. Then students flipped the paper over and graphed the two less-than inequalities. Students then realized that it was the direction of the inequality and the sign of the slope that determined the “rightness” or “leftness” of the shading.
 
 ### Activity Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Pattern.pdf" target="Blank">Activity Instructions</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Ex.pdf" target="Blank">Example of Completed Activity (graphite pencil)</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Pattern.pdf" target="_blank">Activity Instructions</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Graphing-Linear-Inequalz-Activity-Ex.pdf" target="_blank">Example of Completed Activity (graphite pencil)</a>
 
                                                                                                                       
 # Special Systems Graphic Organizer
@@ -41,8 +41,8 @@ I used this opportunity to show students the pattern behind the four basic types
 During my student teaching, one student who was an English language learner struggled with the different types of lines and their respective equations. To help him process and remember the similarities and differences of parallel, perpendicular, and coincident lines, I created a graphic organizer (after an example in the textbook) where students could model these three concepts verbally, visually, and with formulas. Not everyone took advantage of this, however, the ELL student did fill it out and proceeded to get every related question on the test correct.
 
 ### Graphic Organizer Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Special-Systems-Graphic-Organizer.pdf" target="Blank">Special Systems Graphic Organizer</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/ELL-Graphic-Org-FH.pdf" target="Blank">ELL Student Response</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Special-Systems-Graphic-Organizer.pdf" target="_blank">Special Systems Graphic Organizer</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/ELL-Graphic-Org-FH.pdf" target="_blank">ELL Student Response</a>
 
 # Pythagorean Theorm Life Application Webquest
 
