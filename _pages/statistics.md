@@ -59,14 +59,14 @@ For the project outlined below, students, individually, conducted research consi
 
 ### Project Files
 
-Project Instructions
-Stats Project Rubric
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Stats-Project-Instructions.pdf" target="_blank">Project Instructions</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Stats-Project-Rubric-Spr15.pdf" target="_blank">Stats Project Rubric</a><br/>
 
 ### Examples of Student Work
 
-SAT Scores Income Spring 15
-Nurse Anesthetists Salary Spring 15
-Lucky 7s Spring 15
-NFL Running Back Spring 15
-Hockey Period Scores Spring 15
-Penguin Wins Spring 15
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SATScoresIncome-Spring15.pdf" target="_blank">SAT Scores Income Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/NurseAnesthetistsSalary-Spring15.pdf" target="_blank">Nurse Anesthetists Salary Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Lucjy7s-Spring15.pdf" target="_blank">Lucky 7s Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/NFLRunningBack-Spring15.pdf" target="_blank">NFL Running Back Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/HockeyPeriodScores.pdf" target="_blank">Hockey Period Scores Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/PenguinWins-Spring15.pdf" target="_blank">Penguin Wins Spring 15</a>
