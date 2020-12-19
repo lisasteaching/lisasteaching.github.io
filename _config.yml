@@ -46,6 +46,9 @@ navigation:
 - text: Geometry
   url: geometry/
   internal: true
+- text: Cross-Subject
+  url: cross_subject/
+  internal: true
 - text: Planning
   url: planning/
   internal: true
