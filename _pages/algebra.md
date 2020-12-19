@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "Algebra"
+---
+
 ### Get Creative with Polynomials
   
 In this project students use their imaginations to create a building or outside space (e.g., park, zoo habitat, space station, museum, sports complex). There are four parts to this project: writing, drawing, math, and display. Students describe their construction through writing and drawing. They find the area of their construction in terms of an unknown value. All dimensions used to find the total area, whether length, width, or radius, must be represented by linear binomials. They display their work neatly and creatively on a poster board.
