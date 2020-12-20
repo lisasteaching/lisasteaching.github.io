@@ -25,4 +25,15 @@ In this lesson, students will read about the coordinate plane to learn new vocab
 In this lesson, students will read about coordinate systems to reinforce the vocabulary they will need to know for the unit. Students will read about a real-life application of coordinate systems and compare and contrast the geographic system with the one we will use in class.
 
 ### Lesson Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/CoordinateGeom-Coordinate-Systems-Lesson.pdf" target="_blank">Coordinate Systems Life Connection</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/CoordinateGeom-Coordinate-Systems-Lesson.pdf" target="_blank">Coordinate Systems Life Connection Lesson</a>
+
+# Arcs and Chords
+
+Students will be assigned one of four circle and chord constructions based on a theorem. Each student will construct the circle and chords following given specifications. Students will measure angles or line segments and interpret and discuss the results with other students assigned the same construction/theorem. In a jigsaw activity, each student will report and demonstrate their assigned theorem to students who were assigned a different theorem. As a class, students will prove the theorems and then use the theorems to analyze and solve a real-life problem.
+
+### Lesson Files
+<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/Arcs-Chords-Lesson-Plan.pdf" target="_blank">Arcs and Chords Lesson</a></br>
+<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/Arcs-Chords-Lesson-Show.ppsx" target="_blank">Arcs and Chords Presentation</a></br>
+<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/Arcs-Chords-Theorem-Assignment.pdf" target="_blank">Arcs and Chords Assignment</a></br>
+<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/Arcs-Chords-Theorem-Cards.pdf" target="_blank">Arcs and Chords Theorem Cards</a>
+
