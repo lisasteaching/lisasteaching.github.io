@@ -27,7 +27,7 @@ When I first did this activity, I used only plain M&amp;Ms. If you have enough s
 
 # Create a Sampling Distribution
 
-Each student will obtain and calculate the mean for eight different simple random samples of size 4 from a population of exam grades. The class will construct a histogram of sample means to illustrate a sampling distribution. The teacher will demonstrate a sampling distribution from the same population using sample size n=2. Students will consider the sampling distributions of sample means and the population distribution in light of the purpose of statistics, i.e., to make inferences about the population from sample data.
+Each student obtains and calculates the mean for eight different simple random samples of size 4 from a population of exam grades. The class constructs a histogram of sample means to illustrate a sampling distribution. The teacher demonstrates a sampling distribution from the same population using sample size n=2. Students consider the sampling distributions of sample means and the population distribution in light of the purpose of statistics, i.e., to make inferences about the population from sample data.
 
 ### Note about the Central Limit Theorem
 
@@ -42,7 +42,7 @@ It is not practical to use this lesson to illustrate the Central Limit Theorem b
 
 # Research Project
 
-For the project outlined below, students, individually, conducted research consisting of a survey or experiment. To complete the project, students gathered the appropriate data for exploratory data analysis and performed the analysis summarizing the data using the descriptive tools from the course. A formal report of the project was to be typed and submitted as if it were a scientific paper ready for presentation. The project was graded as follows:
+For the project outlined below, students, individually, conduct research consisting of a survey or experiment. To complete the project, students gather the appropriate data for exploratory data analysis and perform the analysis summarizing the data using the descriptive tools from the course. A formal report of the project is to be typed and submitted as if it were a scientific paper ready for presentation. The project is graded as follows:
 
 * Description (10%) A typed, double-spaced, one-page description of the question the student wishes to address and his or her plan for gathering data.
 * Draft (30%) A typed, double-spaced draft of the project that includes the Introduction, Methodology, and Data Exploration sections outlined below in the Project Outline.
