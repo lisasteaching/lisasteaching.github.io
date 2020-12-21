@@ -21,9 +21,9 @@ When I first did this activity, I used only plain M&amp;Ms. If you have enough s
 
 ### Lesson Files
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Stats-Intro-Lesson.pdf">Lesson Plan</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Pre-Reading-Anticipatory-Set.docx">Data Terminology with M&amp;Ms</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Terminology-Guided-Notes.docx">Terminology Guided Notes</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Terminology-Guided-Notes-Key.docx">Terminology Guided Notes Key</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Pre-Reading-Anticipatory-Set.docx">Data Terminology with M&amp;Ms</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Terminology-Guided-Notes.docx">Terminology Guided Notes</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Terminology-Guided-Notes-Key.docx">Terminology Guided Notes Key</a>
 
 # Create a Sampling Distribution
 
