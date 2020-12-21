@@ -5,7 +5,7 @@ title:  "Pre-Algebra"
 
 # Fundamental Theorem of Arithmetic
 
-This lesson is part of the <a href="planning.php">"Lay a Foundation" curriculum proposal</a>.
+This lesson is part of the <a href="https://lisasteaching.github.io/lisasteaching.github.io/planning/" target="_blank">"Lay a Foundation" curriculum proposal</a>.
 
 Students learn the Fundamental Theorem of Arithmetic and how to identify the prime factorization of a number. Students reason and solve problems related to prime factorization for practice and thought development.
 
@@ -14,7 +14,7 @@ Students learn the Fundamental Theorem of Arithmetic and how to identify the pri
 
 # Identifying Factors, Primes, and Composites
 
-This lesson is part of the <a href="planning.php">"Lay a Foundation" curriculum proposal</a>.
+This lesson is part of the <a href="https://lisasteaching.github.io/lisasteaching.github.io/planning/" target="_blank">"Lay a Foundation" curriculum proposal</a>.
 
 Students review what it means for a number to be a factor of another, review the difference between prime and composite numbers, review divisibility rules and create a quick reference, and apply this knowledge to logic puzzles to develop deductive reasoning skills.
 
@@ -22,7 +22,7 @@ Students review what it means for a number to be a factor of another, review the
 <a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/LayFoundation-Factors-Puzzles-Lesson.pdf" target="_blank">Identifying Factors, Primes, and Composites</a>
 
 # Deductive Puzzling Activity
-This activity is part of the <a href="planning.php">"Lay a Foundation" curriculum proposal</a>.
+This activity is part of the <a href="https://lisasteaching.github.io/lisasteaching.github.io/planning/" target="_blank">"Lay a Foundation" curriculum proposal</a>.
 
 Students practice deductive reasoning and mathematical language skills as they solve Shikaku puzzles.
 
