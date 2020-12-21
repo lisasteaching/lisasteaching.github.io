@@ -11,10 +11,10 @@ This nine-week curriculum is designed to “lay a foundation” for higher level
 
 <a href="https://lisasteaching.github.io/portfolio_teaching/planning/Curriculum-Proposal.pdf" target="_blank">Curriculum Proposal</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/planning/Scope-Sequence.pdf" target="_blank">Scope and Sequence</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/planning/Prime-Factorization-Lesson.pdf" target="_blank">Prime Factorization Lesson</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/planning/Factors-Puzzles-Lesson.pdf" target="_blank">Factors Puzzles Lesson</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/planning/Calculus-Concept-Lesson.pdf" target="_blank">Calculus Concept Lesson</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/planning/Deductive-Puzzle-Activity-Rubric.pdf" target="_blank">Deductive Puzzle Activity and Rubric</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/Prime-Factorization-Lesson.pdf" target="_blank">Prime Factorization Lesson</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/Factors-Puzzles-Lesson.pdf" target="_blank">Factors Puzzles Lesson</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/Calculus-Concept-Lesson.pdf" target="_blank">Calculus Concept Lesson</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/Deductive-Puzzle-Activity-Rubric.pdf" target="_blank">Deductive Puzzle Activity and Rubric</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/planning/Assessment.pdf" target="_blank">Assessment</a>
 
 
@@ -24,8 +24,8 @@ This high school geometry unit includes content and skills that are directly rel
 
 ### Unit Plan and Sample Lessons
 <a href="https://lisasteaching.github.io/portfolio_teaching/planning/Coordinate-Geometry-Unit-Plan.pdf" target="_blank">Coordinate Geometry Unit Plan</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/planning/Lesson-Coordinate-Introduction-Combined.pdf" target="_blank">Introduction to Coordinate Geometry Lesson Plan and Worksheets</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/planning/Lesson-Coordinate-Systems-Combined.pdf" target="_blank">Coordinate Systems Lesson Plan and Worksheets</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/Lesson-Coordinate-Introduction-Combined.pdf" target="_blank">Introduction to Coordinate Geometry Lesson Plan and Worksheets</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/Lesson-Coordinate-Systems-Combined.pdf" target="_blank">Coordinate Systems Lesson Plan and Worksheets</a>
 
 # Classroom Management Plan
 
