@@ -14,7 +14,7 @@ You can see that students were very creative with this project. Some even create
 ### Project Files
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Rubric.pdf" target="_blank">Instructions and Rubric</a><br />
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials-Drawing-Ex.pdf" target="_blank">Drawing Example</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials.ppsx" target="_blank">Slideshow of Student Work</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Get-Creative-with-Polynomials_student-work.ppsx" target="_blank">Slideshow of Student Work</a>
                                                                                                                       
 # Linear Systems Jeopardy
 
@@ -59,7 +59,7 @@ During my student teaching, one student who was an English language learner stru
 
 ### Graphic Organizer Files
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Special-Systems-Graphic-Organizer.pdf" target="_blank">Special Systems Graphic Organizer</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/ELL-Graphic-Org-FH.pdf" target="_blank">ELL Student Response</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Special-Systems-ELL-Graphic-Org-FH.pdf" target="_blank">ELL Student Response</a>
 
 # Posttest Write About
 
@@ -81,8 +81,8 @@ The Life Application webquest for the Pythagorean Theorem has three phases:</p>
 * Phase 3: Create your own problem that requires the Pythagorean Theorem. Include at least one criterion that requires gathering information to compare and contrast two or more options. Solve your problem.
 
 ### Webquest Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-life-app-webquest.pdf" target="_blank">Instructions and Links</a> <br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-life-app-worksheet.pdf" target="_blank">Worksheet</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-life-application-webquest.pdf" target="_blank">Instructions and Links</a> <br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-life-application-worksheet.pdf" target="_blank">Worksheet</a>
 
 # Pythagorean Theorm History and Proof Webquest
 
