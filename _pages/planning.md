@@ -9,13 +9,13 @@ This nine-week curriculum is designed to “lay a foundation” for higher level
 
 ### Proposal and Sample Lessons
 
-<a href="https://lisasteaching.github.io/portfolio_teaching/planning/Curriculum-Proposal.pdf" target="_blank">Curriculum Proposal</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/planning/Scope-Sequence.pdf" target="_blank">Scope and Sequence</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/Prime-Factorization-Lesson.pdf" target="_blank">Prime Factorization Lesson</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/Factors-Puzzles-Lesson.pdf" target="_blank">Factors Puzzles Lesson</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/Calculus-Concept-Lesson.pdf" target="_blank">Calculus Concept Lesson</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/Deductive-Puzzle-Activity-Rubric.pdf" target="_blank">Deductive Puzzle Activity and Rubric</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/planning/Assessment.pdf" target="_blank">Assessment</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/planning/LayFoundation-Curriculum-Proposal.pdf" target="_blank">Curriculum Proposal</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/planning/LayFoundation-Scope-Sequence.pdf" target="_blank">Scope and Sequence</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/LayFoundation-Prime-Factorization-Lesson.pdf" target="_blank">Prime Factorization Lesson</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/LayFoundation-Factors-Puzzles-Lesson.pdf" target="_blank">Factors Puzzles Lesson</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/LayFoundation-Calculus-Concept-Lesson.pdf" target="_blank">Calculus Concept Lesson</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/pre_algebra/LayFoundation-Deductive-Puzzle-Activity-Rubric.pdf" target="_blank">Deductive Puzzle Activity and Rubric</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/planning/LayFoundation-Assessment.pdf" target="_blank">Assessment</a>
 
 
 # Geometry Unit Plan
