@@ -105,7 +105,6 @@ Some students were really involved in this activity and obviously had fun findin
 
 ### Activity File
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Webquest.pdf">Instructions and Worksheet</a>
-### Student Work
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Student-Samples.pdf">Student Samples</a>
 
 # Do Everything Twice
