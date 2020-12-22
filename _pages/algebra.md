@@ -104,9 +104,9 @@ This webquest is a fun way for students to recall scientific notation and its pu
 Some students were really involved in this activity and obviously had fun finding their facts. They found some really interesting ones such as the estimated number of blades of grass on the Earth, the number of gallons of water on the Earth, the radius of an electron, the number of individual M&Ms made per day, the number of people employed by McDonald's, etc. My students were very competitive and started competing for the largest and smallest numbers.
 
 ### Activity File
-<a href=“https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Webquest.pdf”>Instructions and Worksheet</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Webquest.pdf">Instructions and Worksheet</a>
 ### Student Work
-<a href=“https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Student-Samples.pdf”>Student Samples</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Scientific-Notation-Student-Samples.pdf">Student Samples</a>
 
 # Do Everything Twice
 
