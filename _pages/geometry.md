@@ -18,7 +18,7 @@ In this activity, students have a chance to consider some real-world objects and
 In this lesson, students read about the coordinate plane to learn new vocabulary and to review how to graph points. Students preview the unit to see how geometric figures are represented on a coordinate plane. Students practice terminology by naming the x-coordinate, y-coordinate, and quadrant of several points. In groups, students explore how to determine a point’s quadrant without graphing the point. Finally, students practice graphing by taking turns graphing points on the board.
 
 ### Lesson Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/CoordinateGeom-Introduction-Lesson.pdf" target="_blank">Coordinate Systems Life Connection</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/geometry/CoordinateGeom-Introduction-Lesson.pdf" target="_blank">Introduction to Coordinate Systems</a>
 
 # Coordinate Systems Life Connection
 
