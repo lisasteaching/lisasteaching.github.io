@@ -20,10 +20,10 @@ When I first did this activity, I used only plain M&amp;Ms. If you have enough s
 * Probability - I used this dataset to illustrate relative frequency, probability, and independence. What is the proportion of red M&amp;Ms? That <em>depends</em> on what type of M&amp;M you are talking about.
 
 ### Lesson Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Stats-Intro-Lesson.pdf">Lesson Plan</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Pre-Reading-Anticipatory-Set.pdf">Data Terminology with M&amp;Ms</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Terminology-Guided-Notes.pdf">Terminology Guided Notes</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Terminology-Guided-Notes-Key.pdf">Terminology Guided Notes Key</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Stats-Intro-Lesson.pdf" target="_blank">Lesson Plan</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Stats-Pre-Reading-Anticipatory-Set.pdf">Data Terminology with M&amp;Ms</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Stats-Terminology-Guided-Notes.pdf">Terminology Guided Notes</a><br />
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/MMs-Stats-Terminology-Guided-Notes-Key.pdf">Terminology Guided Notes Key</a>
 
 # Create a Sampling Distribution
 
@@ -66,7 +66,7 @@ For the project outlined below, students, individually, conduct research consist
 
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/SATScoresIncome-Spring15.pdf" target="_blank">SAT Scores Income Spring 15</a><br/>
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/NurseAnesthetistsSalary-Spring15.pdf" target="_blank">Nurse Anesthetists Salary Spring 15</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Lucjy7s-Spring15.pdf" target="_blank">Lucky 7s Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/Lucky7s-Spring15.pdf" target="_blank">Lucky 7s Spring 15</a><br/>
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/NFLRunningBack-Spring15.pdf" target="_blank">NFL Running Back Spring 15</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/HockeyPeriodScores.pdf" target="_blank">Hockey Period Scores Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/portfolio_teaching/statistics/HockeyPeriodScores-Spring15.pdf" target="_blank">Hockey Period Scores Spring 15</a><br/>
 <a href="https://lisasteaching.github.io/portfolio_teaching/statistics/PenguinWins-Spring15.pdf" target="_blank">Penguin Wins Spring 15</a>
